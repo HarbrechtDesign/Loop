@@ -16,11 +16,11 @@ Add the HTML snippet. Each image you wish to include is added as another `<li>` 
 
 ```html
 <div id="loop-slider" data-autoplay="true" data-speed="8000">
-	<ul id="img-group">
-		<li class="slide" data-img="/path/to/image.jpg"></li>
-		<li class="slide" data-img="/path/to/image.jpg"></li>
-		<li class="slide" data-img="/path/to/image.jpg"></li>
-	</ul>
+    <ul id="img-group">
+        <li class="slide" data-img="/path/to/image.jpg"></li>
+        <li class="slide" data-img="/path/to/image.jpg"></li>
+        <li class="slide" data-img="/path/to/image.jpg"></li>
+    </ul>
 </div>
 ```
 [Demo &rarr;](https://loopslider.io/demo.html)
