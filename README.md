@@ -1,4 +1,4 @@
-<img alt="Loop" src="https://loopslider.io/assets/img/loop_logo_300px.png" width="200" height="143">
+<img alt="Loop" src="https://loopslider.io/assets/img/loop_logo@0.5x.png" width="200" height="143">
 
 An Infinite Scrolling, Full-Width Slider. Built with jQuery.
 
