@@ -2,6 +2,8 @@
 
 An Infinite Scrolling, Full-Width Slider. Built with jQuery.
 
+** Work in Progress **
+
 ## Installation
 
 Grab the CSS & JS files from this repository:
