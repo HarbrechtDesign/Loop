@@ -41,4 +41,3 @@ If autoplay is enabled, you can customise the rate at which the images change. T
 ```html
 data-speed="8000"
 ```
- 
