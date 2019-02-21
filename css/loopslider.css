@@ -1,7 +1,6 @@
 :root {
   --img-height: calc(100vw / 3.24);
   --img-height-mobile: calc(100vw / 2.2);
-  --img-size-breakpoint: 920px;
 }
 
 #loop-slider {
@@ -50,6 +49,11 @@
 }
 #loop-slider .control-container {
   height: var(--img-height);
+}
+@media (max-width: 920px) {
+  #loop-slider .control-container {
+    height: var(--img-height-mobile);
+  }
 }
 #loop-slider .controls {
   z-index: 1000;
